@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv*/
+ENV/
+.venv/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+access-log.txt
+
+# Temporary files
+Temp/
+*.tmp
+*~
+*.bak
+
+# Environment variables
+.env
+.env.local
+
+# Application specific
+*.spec
+
+# Version files (temporary)
+=*

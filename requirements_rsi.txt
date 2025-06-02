@@ -1,0 +1,13 @@
+# RSI Stock Tracker - Required Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+yfinance>=0.2.18
+pandas>=1.5.0
+numpy>=1.21.0
+
+# GUI (Usually included with Python)
+# tkinter - Included with Python standard library
+
+# Optional: For creating executable
+# pyinstaller>=5.0.0

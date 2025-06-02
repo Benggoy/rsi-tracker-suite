@@ -1,0 +1,30 @@
+# Enhanced RSI Stock Tracker - Requirements with Charts and Options
+# Install with: pip install -r requirements_enhanced.txt
+
+# Core dependencies
+yfinance>=0.2.18
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Charting and visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+matplotlib-finance>=0.10.0
+
+# Scientific computing for Black-Scholes
+scipy>=1.8.0
+
+# Options and financial calculations
+py_vollib>=1.0.1
+quantlib-python>=1.29
+
+# GUI (Usually included with Python)
+# tkinter - Included with Python standard library
+
+# Enhanced data handling
+requests>=2.25.0
+beautifulsoup4>=4.10.0
+
+# Optional: For creating executable
+# pyinstaller>=5.0.0
